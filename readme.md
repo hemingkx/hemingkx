@@ -7,7 +7,7 @@ Hi, I'm Heming Xia, a master student at Peking University 🇨🇳.
 - 🍻 Master at [_MOE Key Laboratory of Computational Linguistics_](https://klcl.pku.edu.cn/).
 - 🔭 I'm interested in Natural Language Processing.
 - 💻 Coding with Python, familiar with PyTorch, Keras, Tensorflow.
-- 💬 Welcome to contact me [here](hemingkx@gmail.com).
+- 💬 Welcome to contact me by email ↙️.
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hemingkx)]()
 
