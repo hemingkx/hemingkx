@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/dynamic/json?logo=github&labelColor=495867&color=495867&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhemingkx&style=flat-square)](https://github.com/hemingkx) [![](https://img.shields.io/badge/dynamic/json?logo=zhihu&logoColor=white&label=知乎&labelColor=blue&color=blue&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dxia-he-ming-41&style=flat-square)](https://www.zhihu.com/people/xia-he-ming-41) 
 
-Hi, I'm Heming Xia, a Ph.D. student at The Hong Kong Polytechnic University 🇭🇰🇨🇳, supervised by Prof. [Li Wenjie](https://www4.comp.polyu.edu.hk/~cswjli/).
+Hi, I'm Heming Xia, a Ph.D. student at The Hong Kong Polytechnic University 🇭🇰🇨🇳, supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
 
 My research mainly focuses on efficient and effective NLP and cross vision and language understanding. Previously, I completed my master’s degree at Peking University, advised by Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1226/2014.htm), and my bachelor’s degree at the School of Physics, Peking University.
 
