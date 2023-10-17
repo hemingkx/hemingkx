@@ -2,9 +2,9 @@
 
 [![](https://img.shields.io/badge/dynamic/json?logo=github&labelColor=495867&color=495867&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhemingkx&style=flat-square)](https://github.com/hemingkx) [![](https://img.shields.io/badge/dynamic/json?logo=zhihu&logoColor=white&label=知乎&labelColor=blue&color=blue&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dxia-he-ming-41&style=flat-square)](https://www.zhihu.com/people/xia-he-ming-41) 
 
-Hi, I'm Heming Xia, a master student at Peking University 🇨🇳.
+Hi, I'm Heming Xia, a Ph.D. student at The Hong Kong Polytechnic University 🇭🇰🇨🇳.
 
-- 🍻 Master at [_MOE Key Laboratory of Computational Linguistics_](https://klcl.pku.edu.cn/).
+- 🍻 Ph.D. at [_Natural Language Processing Group @PolyU_](https://www4.comp.polyu.edu.hk/~cswjli/Group.html).
 - 🔭 I'm interested in Natural Language Processing.
 - 💻 Coding with Python, familiar with PyTorch, Keras, Tensorflow.
 - 💬 Welcome to contact me by email ↙️.
