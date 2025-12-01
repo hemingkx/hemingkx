@@ -9,5 +9,3 @@ My research mainly focuses on 1) efficient and effective NLP, 2) tool learning, 
 - 💻 Coding with Python, familiar with PyTorch, Fairseq, Keras, Tensorflow.
 - 💬 Welcome to contact me by email ↙️.
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hemingkx)]()
-
